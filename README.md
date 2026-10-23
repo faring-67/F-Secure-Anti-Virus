@@ -208,4 +208,4 @@ F-Secure Anti-Virus is offered as a complete free version for Windows users, pro
 Download F-Secure Anti-Virus today and take the first step towards a safer online experience!
 
 ---
-**Last updated:** 2026-10-23 13:10:52 UTC
+**Last updated:** 2026-10-23 18:09:47 UTC
